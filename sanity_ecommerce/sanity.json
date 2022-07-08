@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "xbz01uqp",
+    "dataset": "production"
+  },
   "project": {
     "name": "ecommerce"
-  },
-  "api": {
-    "projectId": "px0esmx7",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
