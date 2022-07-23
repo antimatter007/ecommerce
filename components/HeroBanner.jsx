@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'nex/link';
+import Link from 'next/link';
 
 import {urlFor} from '../lib/client';
 
